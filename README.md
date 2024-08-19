@@ -1,4 +1,4 @@
-Grocery Shop Management Application
+#Grocery Shop Management Application
 Objective: Develop an application that allows users to manage the inventory of a small grocery shop. The application must provide functionality for users to control and track all products in stock.
 Requirements:
 Product Management:
